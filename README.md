@@ -9,7 +9,7 @@
 * LINODE
 
 
-### LEARNING PART
+### LEARNING PATH
 * https://cloud.google.com/training/badges
 
 
