@@ -9,6 +9,9 @@
 * LINODE
 
 
+### LEARNING PARH
+* https://cloud.google.com/training/badges
+
 
 
 
