@@ -3,10 +3,12 @@
 
 
 ### PLATFORMS
-AWS. 
-AZURE. 
-GCP. 
-LINODE. 
+* AWS
+* AZURE
+* GCP
+* LINODE
+
+
 
 
 
