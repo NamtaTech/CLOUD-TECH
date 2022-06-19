@@ -9,7 +9,7 @@
 * LINODE
 
 
-### LEARNING PARH
+### LEARNING PART
 * https://cloud.google.com/training/badges
 
 
