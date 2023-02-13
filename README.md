@@ -11,6 +11,8 @@
 
 ### LEARNING PATH
 * https://cloud.google.com/training/badges
+* https://explore.skillbuilder.aws/
+
 
 
 
