@@ -14,6 +14,10 @@
 * https://explore.skillbuilder.aws/
 
 
+### PLATFORM ENGINEERING
+* https://platformweekly.com/issues
+* https://platformengineering.org/
+
 
 
 
