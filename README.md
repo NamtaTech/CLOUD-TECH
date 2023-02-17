@@ -12,6 +12,8 @@
 ### LEARNING PATH
 * https://cloud.google.com/training/badges
 * https://explore.skillbuilder.aws/
+* https://www.devopsschool.com/blog/azure-certification-roadmap-path/
+
 
 
 ### PLATFORM ENGINEERING
