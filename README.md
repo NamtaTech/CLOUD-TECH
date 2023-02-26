@@ -16,6 +16,12 @@
 * https://www.devopsschool.com/blog/azure-certification-roadmap-path/
 * https://www.coursera.org
 
+### AZURE FREE LABS TRAINING ###
+* Https://www.aguidetocloud.com/
+
+### AZURE FREE VIRTUAL TRAININGS ###
+* https://events.microsoft.com/en-us/mvtd-azure?language=English
+
 
 ### PLATFORM ENGINEERING
 * https://platformweekly.com/issues
