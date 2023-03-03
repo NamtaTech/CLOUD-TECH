@@ -15,6 +15,11 @@
 * https://aws.amazon.com/certification/
 * https://www.devopsschool.com/blog/azure-certification-roadmap-path/
 * https://www.coursera.org
+* https://www.freecodecamp.org
+* https://www.Pluralsight.com
+
+
+
 
 ### AZURE FREE LABS TRAINING ###
 * Https://www.aguidetocloud.com/
